@@ -1,0 +1,16 @@
+{
+    "name": "Victus Eze",
+    "bio": "Open Source Contributor | Web Developer | Javascript | React | Typescript | Next.js",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/iamvictus",
+            "icon": "FaTwitter"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/victus-eze-66b05b172/",
+            "icon": "FaLinkedin"
+        }
+    ]
+}
